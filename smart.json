@@ -1,9 +1,9 @@
 {
-    "name": "errors",
+    "name": "joost-errors",
     "description": "A pattern to display application errors to the user",
-    "homepage": "https://github.com/tmeasday/meteor-errors",
-    "author": "Tom Coleman <tom@thesnail.org>",
+    "homepage": "https://github.com/Joostvanderlaan/meteor-errors",
+    "author": "Joost van der Laan <joostvanderlaan@gmail.com>",
     "version": "0.1.0",
-    "git": "https://github.com/tmeasday/meteor-errors.git",
+    "git": "https://github.com/Joostvanderlaan/meteor-errors.git",
     "packages": {}
 }
